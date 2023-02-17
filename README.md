@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yudha</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<img align="right" alt="Donut" width="400" src="https://i.gifer.com/NxfN.gif">
 
 - 🔭 I’m currently working in **multifinance company as Software Engineer**
 
